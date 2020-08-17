@@ -1,8 +1,8 @@
 export default function CheckBox({ title }) {
   return (
-    <div>
+    <div style={{ marginBottom: ".6rem" }}>
       <label>
-        <input type="checkbox" />
+        <input type="checkbox" style={{ marginRight: "10px" }} />
         { title }
       </label>
     </div>
