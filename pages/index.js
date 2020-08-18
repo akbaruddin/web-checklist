@@ -8,12 +8,9 @@ import Navigation from "../components/Navigation";
 export default function Home() {
   const [checklists, setChecklists] = useState(CHECKLIST);
 
-  localStorage.setItem("lists", encodeURI(JSON.stringify(checklists)))
-
   useEffect(() => {
-    setChecklists(
-      JSON.parse(decodeURIComponent(localStorage.getItem("lists")))
-    )
+    const data = JSON.parse(decodeURIComponent(localStorage.getItem("lists")))
+    data && setChecklists(data)
   }, [])
 
   return (
