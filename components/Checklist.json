@@ -1,0 +1,384 @@
+[
+  {
+    "title": "Content",
+    "lists": [
+      {
+        "title": "All text free from spelling errors",
+        "checked": false
+      },
+      {
+        "title": "Page and content formatting appropriate on all pages",
+        "checked": false
+      },
+      {
+        "title": "Placeholder text removed",
+        "checked": false
+      },
+      {
+        "title": "All pages have content",
+        "checked": false
+      },
+      {
+        "title": "Privacy Policy included (Generate one at getterms.io)",
+        "checked": false
+      },
+      {
+        "title": "Print stylesheet exists and tested",
+        "checked": false
+      },
+      {
+        "title": "Favicon created and displays correctly (retina included)",
+        "checked": false
+      },
+      {
+        "title": "Device icons created and display correctly",
+        "checked": false
+      },
+      {
+        "title": "Footer includes copyright statement",
+        "checked": false
+      },
+      {
+        "title": "404 page exists and informative",
+        "checked": false
+      },
+      {
+        "title": "Correct author is attributed to pages and posts (as required)",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "SEO",
+    "lists": [
+      {
+        "title": "Page titles are descriptive and SEO friendly",
+        "checked": false
+      },
+      {
+        "title": "All page titles are unique",
+        "checked": false
+      },
+      {
+        "title": "Meta data included and appropriate",
+        "checked": false
+      },
+      {
+        "title": "H1s used for page titles and only one H1 per page",
+        "checked": false
+      },
+      {
+        "title": "XML sitemap has been generated and added to root of website",
+        "checked": false
+      },
+      {
+        "title": "robots.txt is generated and added to root of website",
+        "checked": false
+      },
+      {
+        "title": "301 redirects for existing website are prepared and in place",
+        "checked": false
+      },
+      {
+        "title": "Website can be accessed by search engines (remove noindex, nofollow for pages)",
+        "checked": false
+      },
+      {
+        "title": "Google Analytics and relevant analytics/tracking tools installed",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "lists": [
+      {
+        "title": "Open Graph tags included across website and appropriate? (including images where possible)",
+        "checked": false
+      },
+      {
+        "title": "Social accounts integrated, linking to correct URLs and use API for integrations",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Markup",
+    "lists": [
+      {
+        "title": "HTML has passed validation (or known issues noted)",
+        "checked": false
+      },
+      {
+        "title": "CSS has passed validation (or known issues noted)",
+        "checked": false
+      },
+      {
+        "title": "Bonus: CSS tested on CSS Lint (to hurt your feelings)",
+        "checked": false
+      },
+      {
+        "title": "Site links have been tested and resolve correctly",
+        "checked": false
+      },
+      {
+        "title": "JavaScript is error free",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Accessibility",
+    "lists": [
+      {
+        "title": "Website meets appropriate level of WCAG compliance",
+        "checked": false
+      },
+      {
+        "title": "ARIA Landmark Roles specified",
+        "checked": false
+      },
+      {
+        "title": "Semantic headings and structure used",
+        "checked": false
+      },
+      {
+        "title": "Links are clearly recognizable and have :focus state",
+        "checked": false
+      },
+      {
+        "title": "Images use appropriate ALT text",
+        "checked": false
+      },
+      {
+        "title": "Alternatives provided for users with Javascript disabled",
+        "checked": false
+      },
+      {
+        "title": "Forms have logical layout",
+        "checked": false
+      },
+      {
+        "title": "Associated label for all form controls",
+        "checked": false
+      },
+      {
+        "title": "Colour contrast tested",
+        "checked": false
+      },
+      {
+        "title": "Website accessibility has been checked with Total Validator Pro or WAVE and issues resolved (exceptions noted)",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Rendering",
+    "lists": [
+      {
+        "title": "Displays & functions correctly in IE9",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in IE10",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in IE11",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Firefox (Windows)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Firefox (Mac)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (Windows)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (Mac)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Safari (Mac)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Safari (iOS – Mobile)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Safari (iOS – iPad)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (iOS – Mobile)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (iOS – iPad)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (Android – Mobile)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Chrome (Android – Tablet)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in stock browser (Android)",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly in Microsoft Edge",
+        "checked": false
+      },
+      {
+        "title": "Displays & functions correctly on large resolutions",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Functionality",
+    "lists": [
+      {
+        "title": "Forms have been tested and processed correctly",
+        "checked": false
+      },
+      {
+        "title": "Required fields have been tested",
+        "checked": false
+      },
+      {
+        "title": "Review input validation (min/max lengths, character limits)",
+        "checked": false
+      },
+      {
+        "title": "Forms send to the correct recipient",
+        "checked": false
+      },
+      {
+        "title": "Forms have confirmation URL or event tracking so submissions can be tracked",
+        "checked": false
+      },
+      {
+        "title": "Forms process correctly with JavaScript disabled",
+        "checked": false
+      },
+      {
+        "title": "Website search and search results function correctly",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Optimization",
+    "lists": [
+      {
+        "title": "Images have been optimized",
+        "checked": false
+      },
+      {
+        "title": "CSS is minified and combined",
+        "checked": false
+      },
+      {
+        "title": "JavaScript is minified and combined (as much as possible)",
+        "checked": false
+      },
+      {
+        "title": "Enable gzip compression",
+        "checked": false
+      },
+      {
+        "title": "Ensure only necessary fonts, weights and character sets are installed",
+        "checked": false
+      },
+      {
+        "title": "Run Google speed test and optimise accordingly (record score and known issues)",
+        "checked": false
+      },
+      {
+        "title": "Run Web page test and optimise accordingly (record results)",
+        "checked": false
+      },
+      {
+        "title": "Incorporate CDN / Caching as required",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Security",
+    "lists": [
+      {
+        "title": "Secure areas are locked down and not accessible by search engines",
+        "checked": false
+      },
+      {
+        "title": "Default CMS login URL is changed",
+        "checked": false
+      },
+      {
+        "title": "Default CMS username is changed",
+        "checked": false
+      },
+      {
+        "title": "SSL Certificate is requested",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "title": "Post Launch",
+    "lists": [
+      {
+        "title": "Ensure site is visible to search engines",
+        "checked": false
+      },
+      {
+        "title": "SSL certificates successfully installed",
+        "checked": false
+      },
+      {
+        "title": "Images, media and links reference live URL",
+        "checked": false
+      },
+      {
+        "title": "Webfonts integrated and working correctly on live site",
+        "checked": false
+      },
+      {
+        "title": "Webfonts set to production (as required)",
+        "checked": false
+      },
+      {
+        "title": "301 redirects are in place and working correctly",
+        "checked": false
+      },
+      {
+        "title": "Website URL has been submitted to Google",
+        "checked": false
+      },
+      {
+        "title": "Generate a new sitemap.xml and upload to root",
+        "checked": false
+      },
+      {
+        "title": "Site added to Google Webmaster tools and sitemap submitted",
+        "checked": false
+      },
+      {
+        "title": "Analytics has been setup and integrated into website",
+        "checked": false
+      }
+    ]
+  }
+]
